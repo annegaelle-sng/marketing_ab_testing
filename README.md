@@ -19,11 +19,11 @@ The A/B test was run for two weeks. Now the company is trying to determine what 
 
 ## Contact
 <p> Anne-Gaëlle Sng - annegaelleandco@gmail.com </p>
-<p> Project Link: https://github.com/annegaelle-sng/google_trends_search_interest </p>
+<p> Project Link: https://github.com/annegaelle-sng/marketing_ab_testing</p>
 
 ## Acknowledgment 
 <ul>
-    <li> "https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
+    <li> https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
     <li> https://www.kaggle.com/code/mysticmedons/a-b-testing-for-landingpage/notebook
-    <li> hhttps://thecleverprogrammer.com/2022/11/14/a-b-testing-using-python/
+    <li> https://thecleverprogrammer.com/2022/11/14/a-b-testing-using-python/
 </ul>
